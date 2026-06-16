@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy - TapTacToe</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.7;
+      margin: 0;
+      padding: 0;
+      background: #f7f7f7;
+      color: #222;
+    }
+
+    .container {
+      max-width: 850px;
+      margin: 40px auto;
+      padding: 30px;
+      background: #ffffff;
+      border-radius: 12px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+    }
+
+    h1 {
+      color: #111827;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      color: #1f2937;
+      margin-top: 28px;
+    }
+
+    p {
+      font-size: 16px;
+    }
+
+    a {
+      color: #2563eb;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .date {
+      color: #555;
+      font-weight: bold;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1>Privacy Policy for TapTacToe</h1>
+
+    <p class="date">Effective Date: 16 June 2026</p>
+
+    <p>
+      TapTacToe is a Tic Tac Toe game application developed by Meet ghori.
+    </p>
+
+    <h2>Information We Collect</h2>
+    <p>
+      TapTacToe does not collect, store, share, or transmit any personal information from users.
+    </p>
+    <p>
+      The app does not require user registration, login, email address, phone number, location,
+      contacts, photos, camera, microphone, or any other personal data.
+    </p>
+
+    <h2>How the App Works</h2>
+    <p>
+      TapTacToe works locally on the user's device. Game actions such as selecting grid size,
+      choosing game mode, playing with a friend, playing with the robot, and resetting the game
+      are handled inside the app only.
+    </p>
+    <p>
+      No gameplay data is uploaded to any server.
+    </p>
+
+    <h2>Third-Party Services and SDKs</h2>
+    <p>
+      The app uses Android SDK, Kotlin, Jetpack Compose, AndroidX Lifecycle ViewModel,
+      Material Icons, Material 3, and Accompanist System UI Controller for app functionality
+      and user interface.
+    </p>
+    <p>
+      These libraries are used only to build and run the app interface and game logic.
+      They are not used to collect personal user data.
+    </p>
+
+    <h2>Advertising and Analytics</h2>
+    <p>
+      TapTacToe does not use advertising SDKs, analytics SDKs, tracking SDKs, or third-party
+      data collection tools.
+    </p>
+
+    <h2>Children's Privacy</h2>
+    <p>
+      TapTacToe does not knowingly collect personal information from children or any other users.
+    </p>
+
+    <h2>Data Sharing</h2>
+    <p>
+      Since TapTacToe does not collect user data, no user data is shared with third parties.
+    </p>
+
+    <h2>Changes to This Privacy Policy</h2>
+    <p>
+      We may update this Privacy Policy from time to time. Any updates will be posted on this page.
+    </p>
+
+    <h2>Contact Us</h2>
+    <p>
+      If you have any questions about this Privacy Policy, please contact us at:
+    </p>
+    <p>
+      <a href="mailto:meetghori0010@gmail.com">meetghori0010@gmail.com</a>
+    </p>
+  </div>
+</body>
+</html>
